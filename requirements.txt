@@ -24,3 +24,4 @@ sentence-transformers==3.0.1
 unstructured==0.15.13
 unstructured-client==0.25.9
 webcolors==24.6.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
